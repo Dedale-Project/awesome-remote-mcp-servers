@@ -988,7 +988,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
 - [Remnant](https://remnant.dedale-bi.com/knowledge) `https://remnant.dedale-bi.com/mcp/chatgpt`
-  [![Remnant MCP connector](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant/badges/score.svg)](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant)
+  [![Remnant Read MCP connector](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant/badges/score.svg)](https://glama.ai/mcp/connectors/com.dedale-bi.remnant/remnant)
   🔓 - Search prior debugging experience, inspect evidence and failed attempts; free public reading without signup.
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
